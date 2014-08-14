@@ -1,0 +1,14 @@
+.DS_Store
+.sass-cache
+node_modules/*
+public/css/generated/*
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+pids
+logs
+npm-debug.log
+generated/*
